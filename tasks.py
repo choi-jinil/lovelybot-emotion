@@ -36,7 +36,7 @@ def echo_response(message):
           }
         ]
       }
-      headers = {'Ocp-Apim-Subscription-Key': '4cfe6f744f1b486db3fa83d874bafdd9',
+      headers = {'Ocp-Apim-Subscription-Key': '0c4f074c77224c1a8866484047f0e91f',
                  'Content-Type': 'application/json',
                  'Accept': 'application/json',
                  }
